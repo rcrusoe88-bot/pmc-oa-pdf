@@ -1,0 +1,6 @@
+# 依赖为零，只忽略运行产物
+papers/
+.test/
+__pycache__/
+*.pyc
+result.json

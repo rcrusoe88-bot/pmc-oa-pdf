@@ -1,0 +1,7 @@
+interface:
+  display_name: "PMC OA PDF 下载"
+  short_description: "批量下载 PubMed Central 开放获取全文 PDF，绕开工作量证明拦截"
+  default_prompt: "使用 $pmc-oa-pdf 帮我把这批文献的全文 PDF 下载下来。"
+
+policy:
+  allow_implicit_invocation: true
